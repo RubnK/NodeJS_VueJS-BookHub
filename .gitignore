@@ -1,3 +1,13 @@
 /backend/node_modules
 /backend/package-lock.json
 /backend/.env
+
+/frontend/.vscode
+/frontend/.editorconfig
+/frontend/.gitattributes
+/frontend/.prettierrc.json
+/frontend/.gitignore
+/frontend/node_modules
+/frontend/package-lock.json
+/frontend/.env
+/frontend/README.md
